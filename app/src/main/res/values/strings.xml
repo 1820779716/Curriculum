@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Curriculum</string>
+    <string name="sw">节/周</string>
+    <string name="Sun">周日</string>
+    <string name="Mon">周一</string>
+    <string name="Tue">周二</string>
+    <string name="Wed">周三</string>
+    <string name="Thu">周四</string>
+    <string name="Fri">周五</string>
+    <string name="Sat">周六</string>
+    <string name="save">保存</string>
+    <string name="cancel">返回</string>
+    <string name="addCourse">添加课程</string>
+
+    <string name="courseId">课程编号</string>
+    <string name="courseName">"课  程  名"</string>
+    <string name="classroom">"教         室"</string>
+    <string name="teacher">任课老师</string>
+    <string name="day">"星  期  几"</string>
+    <string name="weekType">"单  双  周"</string>
+</resources>
